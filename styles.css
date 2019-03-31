@@ -1,0 +1,22 @@
+.container{display: flex;}
+
+.meta-container {
+	margin-top:20px;
+	padding: 20px;
+	
+	}
+
+.card-title {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 900px;
+	font-size: 20px;
+	color: #596275;
+}
+
+.card-text{
+	color: #778ca3;
+    font-weight:500px; 
+}
+.card-1{
+	margin-top: 200px;
+}
